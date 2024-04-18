@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstudiantes", "AppEstudiantes\AppEstudiantes.csproj", "{9EFB9035-F8CC-449F-AB52-C23193C0CC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{F68E4B0D-B98C-4A1C-99BC-9C79A7FA30C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{C7BE83E4-6987-4CF8-81A4-A67E8540286A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EFB9035-F8CC-449F-AB52-C23193C0CC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFB9035-F8CC-449F-AB52-C23193C0CC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFB9035-F8CC-449F-AB52-C23193C0CC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFB9035-F8CC-449F-AB52-C23193C0CC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68E4B0D-B98C-4A1C-99BC-9C79A7FA30C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68E4B0D-B98C-4A1C-99BC-9C79A7FA30C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68E4B0D-B98C-4A1C-99BC-9C79A7FA30C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68E4B0D-B98C-4A1C-99BC-9C79A7FA30C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BE83E4-6987-4CF8-81A4-A67E8540286A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BE83E4-6987-4CF8-81A4-A67E8540286A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BE83E4-6987-4CF8-81A4-A67E8540286A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BE83E4-6987-4CF8-81A4-A67E8540286A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025D4684-F7E9-4926-9851-E7520C14F000}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\Data.dll
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\Data.pdb
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\linq2db.dll
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\linq2db.xml
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\obj\Debug\Data.dll
+C:\Users\yahir\OneDrive\Escritorio\C_NET_Course\AppEstudiantes\Data\obj\Debug\Data.pdb
