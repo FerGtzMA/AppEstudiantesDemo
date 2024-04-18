@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yahir\\OneDrive\\Escritorio\\C_NET_Course\\AppEstudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|C:\\Users\\yahir\\OneDrive\\Escritorio\\C_NET_Course\\AppEstudiantes\\Logica\\Library\\UploadImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|solutionrelative:Logica\\Library\\UploadImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|c:\\users\\yahir\\onedrive\\escritorio\\c_net_course\\appestudiantes\\logica\\library\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|solutionrelative:logica\\library\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|c:\\users\\yahir\\onedrive\\escritorio\\c_net_course\\appestudiantes\\logica\\library\\paginador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|solutionrelative:logica\\library\\paginador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|C:\\Users\\yahir\\OneDrive\\Escritorio\\C_NET_Course\\AppEstudiantes\\Logica\\Library\\Paginador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BE83E4-6987-4CF8-81A4-A67E8540286A}|Logica\\Logica.csproj|solutionrelative:Logica\\Library\\Paginador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EFB9035-F8CC-449F-AB52-C23193C0CC16}|AppEstudiantes\\AppEstudiantes.csproj|C:\\Users\\yahir\\OneDrive\\Escritorio\\C_NET_Course\\AppEstudiantes\\AppEstudiantes\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Logica\\Library\\Paginador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:26:44.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T22:26:44.183Z"
             },
             {
               "$type": "Document",
@@ -104,7 +103,7 @@
               "RelativeDocumentMoniker": "Logica\\Library\\UploadImage.cs",
               "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\C_NET_Course\\AppEstudiantes\\Logica\\Library\\UploadImage.cs",
               "RelativeToolTip": "Logica\\Library\\UploadImage.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBcAAAAQAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T15:46:40.087Z",
               "EditorCaption": ""
